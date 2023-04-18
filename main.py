@@ -1,4 +1,4 @@
-s = input("enter value:")
+s = input()
 print(s)
-a = input("enter anotther value:")
-print(s+a)
+a = input()
+print(s + a);
